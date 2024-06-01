@@ -1,3 +1,4 @@
 Hello World
-
-git_practice level 1
+git_practice level 2
+Hey, we fixed the bug!!!
+Added a cool feature
